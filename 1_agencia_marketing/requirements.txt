@@ -4,5 +4,5 @@ django.cors-headers
 djangorestframework
 pillow
 django-storages
-django-ckeditor
+django-ckeditor==6.3.2
 psycopg2
